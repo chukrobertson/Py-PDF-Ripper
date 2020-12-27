@@ -6,7 +6,7 @@ This notebook takes single or multipage pdfs and turns them into pandas datafram
 Requirements:
  - tabula-py (pip3 install)
  - PyPDF2 (pip3 install)
- - working Java install (openjdk works fine on linux)
+ - working Java install (openjre/openjdk works fine on linux)
 
 Features:
  - Takes in multipage pdfs
