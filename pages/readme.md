@@ -1,2 +1,2 @@
-### This folder is used by pdfrip and the notebook for one of the loops.
-#### The loop technically exports every page as it's own .csv then imports them as pandas dataframes THEN concatenates them into one dataframe. 
+### This is the "cache" used by the script/notebook for storing dataframes to csvs for importing.
+### The script and the notebook look for this folder.

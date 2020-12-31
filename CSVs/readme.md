@@ -1,1 +1,2 @@
-### CSVs exported from pdfrip.py or the notebook will be saved here.
+### Exported CSVs go here.
+### The script/notebooks look for this folder.
