@@ -19,17 +19,11 @@ Features:
    - exports dataframe as csv
 
 Changes:
- - Removed unused modules
- - Created directories to make the notebooks easier to use
-   - put your pdf files in /PDFs
-   - the notebook/script uses /pages for its own output from the pdf reader. We had to create real files to get the best outcome
-   - exported CSVs are automatically saved to /CSVs
- - Cleaned up the comments and code
+ - Cleaner code
+ - Prompts for number of columns and column names
 
-Current development:
- - adding inputs to script for more interactivity with the way the dataframe is created.
-   - adding number of columns question
-   - adding naming of columns questions
+Curent development:
+ - Cleaning
 
 Future development:
  - Probably a tkinter GUI
