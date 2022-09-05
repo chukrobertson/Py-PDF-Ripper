@@ -35,9 +35,7 @@ Changes:
 Curent development:
  - Cleaning
 
-Future development:
- - Probably a tkinter GUI
- - ##### I may or may not try to make it OS agnostic
+I have abandoned this project until it is needed.
 
 Author:
 chukrobertson
